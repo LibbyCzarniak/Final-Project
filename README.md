@@ -8,10 +8,17 @@ Summary:
 
 
 Link to our report: 
+
 Link to our dashboard: https://secret-gorge-55796.herokuapp.com/
-  The dashboard consists of three notebooks:
-    Cleaning Data for Dashboard: where we clean the data that we use in the python file for the dashboard
-    Cleaning Data for Model: where we clean the data used for the model in the next notebook 
-    Model: where we create a regression models that predict certain NFL statistics for four different categories of positions
+
 Link to our deepnote: https://deepnote.com/project/146af6de-f45f-4b62-a819-8e5a1cb21de6
+
+  The deepnote consists of three notebooks:
+  
+    Cleaning Data for Dashboard: where we clean the data that we use in the python file for the dashboard
+    
+    Cleaning Data for Model: where we clean the data used for the model in the next notebook 
+    
+    Model: where we create a regression models that predict certain NFL statistics for four different categories of positions
+    
 App.py file has the code used for the dashboard
