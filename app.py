@@ -210,7 +210,7 @@ st.write(f"This player falls in the {my_percentile:.2f}th percentile of {positio
 
 def get_top_five_picks(round_pick):                         # make a function that takes the round as parameter
     df = pos_df2.loc[pos_df2['Round']==round_pick]          # filter the position dataframe to include only stats for that round
-    df_t5_round = df.dropna().iloc[0:5]                              # get just the first 5 rows from that dataframe (top 5 picks)
+    df_t5_round = df.dropna().iloc[0:5]                     # get just the first 5 rows from that dataframe (top 5 picks), ignoring NaN values
     return df_t5_round.iloc[:,3:6].mean()                   # return the mean combine test statistics for the top 5 picks from that round
 
 # we have a function that'll give us the average statistics for the top 5 picks in the user-given round. We can display these statistics on the dashboard
