@@ -7,7 +7,7 @@ Summary:
   different types of postitions. 
 
 
-Link to our report: 
+Link to our report: https://docs.google.com/document/d/11Gl3n42a0dt44mZnV6WJI5Q5W5ItWrd4IcZjqeNo0gU/edit?usp=sharing
 
 Link to our dashboard: https://secret-gorge-55796.herokuapp.com/
 
@@ -21,4 +21,4 @@ Link to our deepnote: https://deepnote.com/project/146af6de-f45f-4b62-a819-8e5a1
   
   Model: where we create a regression models that predict certain NFL statistics for four different categories of positions
     
-App.py file has the code used for the dashboard
+app.py file has the code used for the dashboard
