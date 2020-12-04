@@ -7,7 +7,7 @@ Summary:
   different types of postitions. 
 
 
-Link to our report: https://docs.google.com/document/d/11Gl3n42a0dt44mZnV6WJI5Q5W5ItWrd4IcZjqeNo0gU/edit?usp=sharing
+Link to our report: https://github.com/LibbyCzarniak/Final-Project/blob/master/Final%20Project%20Report.docx
 
 Link to our dashboard: https://secret-gorge-55796.herokuapp.com/
 
